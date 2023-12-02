@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-I've been learning programing for 5 years. I started In high school learning python and Java. Then in college I was introduced to C/C++, along with the theory and math surrounding computers. These days my interests have brought me to various environments. I have started learning JavaScript for frontend and backend development as well as relearning Java for android app development. I do some work in Python to learn about machine learning models as well. I do still use C/C++ for work and It is definitely still my favorite language for solving puzzles and coding challenges in. I am constantly seeking new opportunities to grown my knowledge and to contribute to new and impactful projects.
+I've been learning programing for 5 years. I started In high school learning Python and Java. Then in college I was introduced to C/C++, along with the theory and math surrounding computers. These days my interests have brought me to various environments. I have started learning JavaScript for frontend and backend development as well as relearning Java for Android app development. I do some work in Python to learn about machine learning models as well. I do still use C/C++ for work and It is definitely still my favorite language for solving puzzles and coding challenges in. I am constantly seeking new opportunities to grown my knowledge and to contribute to new and impactful projects.
 
 * 🌍  I'm based in Boston, MA
 * 🖥️  See my portfolio at [My Portfolio](http://danbergeron3.github.io/Daniel-Bergeron)
