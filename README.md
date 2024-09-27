@@ -9,7 +9,7 @@ I've been learning programing for 5 years. I started In high school learning Pyt
 * 🌍  I'm based in Boston, MA
 * 🖥️  See my portfolio at [My Portfolio](http://danbergeron3.github.io/Daniel-Bergeron)
 * ✉️  You can contact me at [danielbergeron3@gmail.com](mailto:danielbergeron3@gmail.com)
-* 🚀  I'm currently working on [BreadBox](https://github.com/danbergeron3/LP_API)
+* 🚀  I'm currently working on [Chip-8 Emulator](https://github.com/danbergeron3/LP_API](https://github.com/danbergeron3/My-Chip-8-Emulator))
 * 🧠  I'm learning the MERN Stack
 * 🤝  I'm open to collaborating on Interesting Projects
 
